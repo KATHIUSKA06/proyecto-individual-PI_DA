@@ -38,7 +38,7 @@ Algunas Observaciones son las siguientes:
 
 |  | |
 | --------- | --------- |
-| ![Texto alternativo 1](src\tecnologias.png)| ![Texto alternativo 2](src\tecnologia_prov.png) |
+| ![Texto alternativo 1](/src/tecnologias.png)| ![Texto alternativo 2](/src/tecnologia_prov.png) |
 
 En el conjunto de datos "Acceso a Internet fijo por tecnología y provincia", se detalla el desglose anual de las tecnologías de Internet utilizadas en Argentina. Un aspecto destacado es el rápido crecimiento de la fibra óptica, seguida de cerca por el cable módem. Estas tecnologías están en ascenso gracias a su capacidad para ofrecer conexiones más rápidas y estables, mientras que el ADSL muestra una tendencia a la baja.
 
