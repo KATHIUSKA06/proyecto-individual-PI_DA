@@ -47,7 +47,7 @@ Es evidente que la provincia de Buenos Aires se destaca como líder en adopción
 
 |  | |
 | --------- | --------- |
-| ![Texto alternativo 1](src\accesos_hogar.png) | ![Texto alternativo 2](src\penetracion.png) |
+| ![Texto alternativo 1](/src/accesos_hogar.png) | ![Texto alternativo 2](/src/penetracion.png) |
 
 
 
@@ -59,7 +59,7 @@ Paralelamente, a lo largo de los años, se ha registrado un crecimiento sostenid
 ### Gráfico Velocidad de bajada por provincias
 |  | |
 | --------- | --------- |
-| ![Texto alternativo 1](src\velocidad_prov.png) | ![Texto alternativo 2](src\velocidad_media.png) |
+| ![Texto alternativo 1](/src/velocidad_prov.png) | ![Texto alternativo 2](/src/velocidad_media.png) |
 
 En el análisis de datos a partir de los conjuntos de datos "Accesos de Internet de bajada por provincia" y "Velocidad media de bajada de Internet fijo por provincia", se destaca la Ciudad de Buenos Aires, conocida como Capital Federal, seguida de la provincia de Buenos Aires, por su destacada velocidad media de descarga de Internet. Este liderazgo en la calidad de la conectividad tiene un impacto significativo en la experiencia en línea de los residentes y en el desarrollo tecnológico de la región.
 
